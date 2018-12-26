@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "자동완성을 위한 ngram tokenizing with Elasticsearch"
 categories: tech
 ---

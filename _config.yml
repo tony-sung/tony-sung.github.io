@@ -12,14 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "기술 블로그"
+title                    : "Tech blog"
 title_separator          : "-"
 name                     : "Tony Sung"
-description              : "Tech Blog"
+description              : "Tech blog"
 url                      : "https://tony-sung.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -105,8 +105,8 @@ analytics:
 author:
   name             : "Tony Sung"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "기술 개발 블로그입니다."
-  location         : "우리집"
+  bio              : "Tech blog"
+  location         : "Tony's house"
   email            : mjtwins89@gmail.com
   links:
     - label: "Email"

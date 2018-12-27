@@ -103,11 +103,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Tony Sung"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "기술 개발 블로그입니다."
+  location         : "우리집"
+  email            : mjtwins89@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

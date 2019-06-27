@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Study blog"
+title                    : "Data Mining Researcher"
 title_separator          : "-"
 name                     : "Mujeen Sung"
-description              : "Study blog"
+description              : "Data Mining Researcher"
 url                      : "https://mjeensung.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -105,9 +105,9 @@ analytics:
 author:
   name             : "Mujeen Sung"
   avatar           : "/assets/images/bio-photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Study blog"
+  bio              : "Ph.D Student in Korea University\nInterest Research:\nArtificial Intelligence\nDeep Learning\nNatural Language Processing\nData Mining"
   #location         : "Tony's house"
-  email            : mjtwins89@gmail.com
+  email            : mjtwins@korea.ac.kr
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

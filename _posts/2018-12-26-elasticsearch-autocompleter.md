@@ -1,6 +1,7 @@
 ---
 title:  "Autocompleter with Elasticsearch"
-categories: tech
+# categories: tech
+tags: Elasticsearch
 ---
 
 # 상황

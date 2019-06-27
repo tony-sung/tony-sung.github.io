@@ -1,3 +1,9 @@
+---
+title:  "Space ignoring autocompleter with Elasticsearch"
+# categories: tech
+tags: Elasticsearch
+---
+
 # 상황
 Edge NGram Tokenizer를 활용하여 Elasticsearch에서 [자동완성 시스템](https://tony-sung.github.io/tech/elasticsearch-autocompleter/)을 만들었다. 
 

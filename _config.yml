@@ -105,7 +105,7 @@ analytics:
 author:
   name             : "Mujeen Sung"
   avatar           : "/assets/images/bio-photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Ph.D Student in Korea University\nArtificial Intelligence, Deep Learning, Natural Language Processing, Data Mining"
+  bio              : "Ph.D Student at Korea University\nArtificial Intelligence, Deep Learning, Natural Language Processing, Data Mining"
   #location         : "Tony's house"
   email            : mjtwins@korea.ac.kr
   links:

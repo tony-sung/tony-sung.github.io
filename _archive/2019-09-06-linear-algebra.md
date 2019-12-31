@@ -46,7 +46,7 @@ $x_1\bold{v_1} + x_2\bold{v_2} + ... + x_p\bold{v_p} = 0$ (이 식을 Homogeneou
 
 ### 기저 벡터 (Basis Vector)
 - (Lay Ch4.3에서 다룬다)
-- $\bold{B} = \{\bold{b_1,...,b_p}\}$ 가 다음과 같은 성질을 만족한다면 $\bold{B}$를 기적 벡터라고 한다:
+- $\bold{B} = \{\bold{b_1,...,b_p}\}$ 가 다음과 같은 성질을 만족한다면 $\bold{B}$를 기저 벡터라고 한다:
   - $\bold{B}$는 선형 독립 집합이다.
   - Span{$\bold{b_1,...,b_p}$}이 완전한 스팬을 이룬다.
 
